@@ -15,3 +15,6 @@ firstly:
 	git branch:			 to show the used branch and other branches.
 	git branch <NEW BRANCH NAME>:	 to make new branch.
 	git checkout <BRANCH NAME>:	 to swich between branches.
+	git pull <HTTPS URL>:		 to update local repo from remote.
+
+	NOTE: [after uplouding local repo to remote repo do >> pull request to the master]
