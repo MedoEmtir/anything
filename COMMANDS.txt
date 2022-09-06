@@ -1,0 +1,17 @@
+That What I Learned TODAY,
+it's Acually Amazing ThingTo Know the used of git tool.
+firstly:
+	You Have To make New repo and Name it as You want in GITHUB website.
+	then take the HTML URL for your repo and GO for The terminal,
+	and write this command:
+	
+	git clone <HTTPS URL>:		 to Download your repo in Local. 
+	cd <REPO DOCUMENT NAME>:	 to open the Document. 
+	touch <NEW FILE NAME>:		 to make new file.
+	nano <FILE NAME>:		 to edit or modify the file. 
+	git add .:			 to uploud all files on runway.
+	git commit -m "the  discrption": to descripe the new update.
+	git push:			 to send the files on remote in github.
+	git branch:			 to show the used branch and other branches.
+	git branch <NEW BRANCH NAME>:	 to make new branch.
+	git checkout <BRANCH NAME>:	 to swich between branches.
